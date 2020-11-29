@@ -188,7 +188,6 @@
   position: relative;
   overflow: hidden;
   background-color: #f2f2f2;
-  border: 3px solid violet;
 }
 
 .feynman__title {
@@ -233,12 +232,45 @@
   z-index: 1;
 }
 
-/* и элемента с модификатором вида ключ-значение */
+.kaufman {
+  padding: 90px 0;
+  position: relative;
+  overflow: hidden;
+  background-color: #000000;
+}
+
+.section-title_theme_dark {
+  color: white;
+}
+
+.section-subtitle_theme_dark {
+  color: white;
+}
+
+.kaufman__triangle {
+  position: absolute;
+  width: 877px;
+  height: 877px;
+  top: 0;
+  right: -210px;
+}
+
+
 .table__cell_theme_dark {
   width: 200px;
   color: white;
   margin-right: 0;
   margin-top: 80px;
+  position: static;
+  z-index: 1;
+}
+
+.table__heading_theme_dark {
+  color: white;
+}
+
+.table__text_theme_dark {
+  color: white;
 }
 
 .logo_place_footer {
