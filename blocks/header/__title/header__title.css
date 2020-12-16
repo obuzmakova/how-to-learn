@@ -1,0 +1,10 @@
+.header__title {
+  font-size: 102px;
+  font-weight: bold;
+  width: 730px;
+  line-height: 96px;
+  margin-left: 64px;
+  /*вертикальное центрирование элемента*/
+  align-self: center;
+  z-index: 2;
+}
