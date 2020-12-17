@@ -1,0 +1,12 @@
+.cards__description {
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 23px;
+  margin: 0 auto 60px auto;
+  text-align: center;
+}
+
+.cards__description:nth-last-child(-n+2)
+{
+  margin-bottom: 0;
+}

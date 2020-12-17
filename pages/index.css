@@ -51,3 +51,6 @@
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/techniques/techniques.css);
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/video__iframes/video__iframes.css);
+@import url(../blocks/video/video__iframe/video__iframe.css);
