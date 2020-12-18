@@ -6,5 +6,4 @@
   position: absolute;
   background-color: #2f80ed;
   object-fit: contain;
-  animation: rotation linear infinite 20s;
 }
